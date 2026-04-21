@@ -7,7 +7,7 @@
 Voice receptionists that answer phones. Sales reps that source leads and write cold emails.  
 Chat agents that demo themselves to prospects. Each one runs autonomously in production.
 
-[ashish@getcranial.net](mailto:ashish@getcranial.net) · [LinkedIn](https://linkedin.com/in/ashishjainemail) · Available for consulting engagements
+[ashish@cranial.ai](mailto:ashish@cranial.ai) · [LinkedIn](https://linkedin.com/in/ashishjainemail) · Available for consulting engagements
 
 </div>
 
